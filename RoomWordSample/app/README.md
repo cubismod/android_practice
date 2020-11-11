@@ -1,0 +1,1 @@
+All based around this tutorial: https://developer.android.com/codelabs/android-room-with-a-view-kotlin
